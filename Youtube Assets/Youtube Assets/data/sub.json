@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "vadim fayyaz",
+    "uri": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  {
+    "id": 2,
+    "name": "ibrahim fayyaz",
+    "uri": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/graham.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mahad Shahbaz",
+    "uri": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ahmed Ali",
+    "uri": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Ali",
+    "uri": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/biahaze.jpg"
+  },
+  {
+    "id": 6,
+    "name": "vadim fayyaz",
+    "uri": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/avatars/vadim.jpg"
+  }
+]
