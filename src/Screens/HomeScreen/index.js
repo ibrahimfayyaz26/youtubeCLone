@@ -8,7 +8,9 @@ import Videos from '../../../Youtube Assets/Youtube Assets/data/videos.json';
 const Home = () => {
   return (
     <View style={styles.container}>
+      <View style={{width: '100%', height: 1.25, backgroundColor: '#e6e6e6'}} />
       <Intrest />
+      <View style={{width: '100%', height: 5, backgroundColor: '#e6e6e6'}} />
       <ScrollView
         showsVerticalScrollIndicator={false}
         style={{marginBottom: 60}}>

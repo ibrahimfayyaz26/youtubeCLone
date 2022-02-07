@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
     alignItems: 'center',
   },
   intrestText: {
-    fontWeight: 'bold',
+    fontWeight: 'normal',
     color: 'black',
   },
 });

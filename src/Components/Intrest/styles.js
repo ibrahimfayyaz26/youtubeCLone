@@ -7,6 +7,7 @@ export const styles = StyleSheet.create({
     padding: 5,
     backgroundColor: 'white',
     height: 55,
+    marginTop: -4,
   },
   exploreContainer: {
     flexDirection: 'row',
